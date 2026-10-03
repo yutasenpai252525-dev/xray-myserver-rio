@@ -1,0 +1,7 @@
+name = "xray-proxy-ku"
+main = "worker.js"
+compatibility_date = "2026-03-01"
+
+[vars]
+UUID = "42b24d71-d5d3-4cb1-86d5-bec85501c47b"
+PASSWORD = "riosaputra25252512345"
